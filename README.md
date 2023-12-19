@@ -9,7 +9,6 @@ what I thought would be better functionalities in this app, from the user perspe
 
 This web app is hosted online at:- http://debanjansarkar.epizy.com/PGLIFE/index.php
 
-Entire web-app is fully responsive and is operational from any device.
 
 Tech Stack:- HTML, CSS, Bootstrap 5, Javascript, AJAX, PHP, MySQL.
 
